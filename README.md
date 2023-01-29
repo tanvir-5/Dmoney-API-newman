@@ -12,7 +12,7 @@
 - https://documenter.getpostman.com/view/25534199/2s935hPmYD
 
 ## Test cases:
-link
+- https://docs.google.com/spreadsheets/d/1_33VlaCtfQWwfxAh3KyKXsLe2qjOJ-oiPll9_WC9DNE/edit?usp=sharing
 
 # Bug and improvemnt:
 
